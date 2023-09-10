@@ -1,0 +1,15 @@
+E:\HakerRankPractice\PlusMinusApp\bin\Debug\net7.0\PlusMinusApp.exe
+E:\HakerRankPractice\PlusMinusApp\bin\Debug\net7.0\PlusMinusApp.deps.json
+E:\HakerRankPractice\PlusMinusApp\bin\Debug\net7.0\PlusMinusApp.runtimeconfig.json
+E:\HakerRankPractice\PlusMinusApp\bin\Debug\net7.0\PlusMinusApp.dll
+E:\HakerRankPractice\PlusMinusApp\bin\Debug\net7.0\PlusMinusApp.pdb
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.csproj.AssemblyReference.cache
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.AssemblyInfoInputs.cache
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.AssemblyInfo.cs
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.csproj.CoreCompileInputs.cache
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.dll
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\refint\PlusMinusApp.dll
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.pdb
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\PlusMinusApp.genruntimeconfig.cache
+E:\HakerRankPractice\PlusMinusApp\obj\Debug\net7.0\ref\PlusMinusApp.dll
